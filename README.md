@@ -10,3 +10,4 @@ Results
 3. Slew rate=1/4
 ![image](https://github.com/106061144/exam1/blob/master/3.jpg)
 4. Slew rate=1/8
+![image](https://github.com/106061144/exam1/blob/master/4.jpg)
